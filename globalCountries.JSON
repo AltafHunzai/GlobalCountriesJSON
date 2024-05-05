@@ -2,1021 +2,1213 @@
     {
         "name": "Antigua and Barbuda",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "St. John's"
     },
     {
         "name": "Bahamas",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Nassau"
     },
     {
         "name": "Barbados",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Bridgetown"
     },
     {
         "name": "Belize",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Belmopan"
     },
     {
         "name": "Canada",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Ottawa"
     },
     {
         "name": "Costa Rica",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "San José"
     },
     {
         "name": "Cuba",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Havana"
     },
     {
         "name": "Dominica",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Roseau"
     },
     {
         "name": "Dominican Republic",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Santo Domingo"
     },
     {
         "name": "El Salvador",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "San Salvador"
     },
     {
         "name": "Grenada",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "St. George's"
     },
     {
         "name": "Guatemala",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Guatemala City"
     },
     {
         "name": "Haiti",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Port-au-Prince"
     },
     {
         "name": "Honduras",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Tegucigalpa"
     },
     {
         "name": "Jamaica",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Kingston"
     },
     {
         "name": "Mexico",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Mexico City"
     },
     {
         "name": "Nicaragua",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Managua"
     },
     {
         "name": "Panama",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Panama City"
     },
     {
         "name": "Saint Kitts and Nevis",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Basseterre"
     },
     {
         "name": "Saint Lucia",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Castries"
     },
     {
         "name": "Saint Vincent and the Grenadines",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Kingstown"
     },
     {
         "name": "Trinidad and Tobago",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Port of Spain"
     },
     {
         "name": "United States",
         "region": "North America",
-        "continent": "North America"
+        "continent": "North America",
+        "capitalCity": "Washington, D.C."
     },
     {
         "name": "Argentina",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Buenos Aires"
     },
     {
         "name": "Bolivia",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Sucre (constitutional capital) / La Paz (seat of government)"
     },
     {
         "name": "Brazil",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Brasília"
     },
     {
         "name": "Chile",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Santiago"
     },
     {
         "name": "Colombia",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Bogotá"
     },
     {
         "name": "Ecuador",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Quito"
     },
     {
         "name": "Guyana",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Georgetown"
     },
     {
         "name": "Paraguay",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Asunción"
     },
     {
         "name": "Peru",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Lima"
     },
     {
         "name": "Suriname",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Paramaribo"
     },
     {
         "name": "Uruguay",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Montevideo"
     },
     {
         "name": "Venezuela",
         "region": "South America",
-        "continent": "South America"
+        "continent": "South America",
+        "capitalCity": "Caracas"
     },
     {
         "name": "Albania",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Tirana"
     },
     {
         "name": "Andorra",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Andorra la Vella"
     },
     {
         "name": "Armenia",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Yerevan"
     },
     {
         "name": "Austria",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Vienna"
     },
     {
         "name": "Azerbaijan",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Baku"
     },
     {
         "name": "Belarus",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Minsk"
     },
     {
         "name": "Belgium",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Brussels"
     },
     {
         "name": "Bosnia and Herzegovina",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Sarajevo"
     },
     {
         "name": "Bulgaria",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Sofia"
     },
     {
         "name": "Croatia",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Zagreb"
     },
     {
         "name": "Cyprus",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Nicosia"
     },
     {
         "name": "Czech Republic",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Prague"
     },
     {
         "name": "Denmark",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Copenhagen"
     },
     {
         "name": "Estonia",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Tallinn"
     },
     {
         "name": "Finland",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Helsinki"
     },
     {
         "name": "France",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Paris"
     },
     {
         "name": "Georgia",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Tbilisi"
     },
     {
         "name": "Germany",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Berlin"
     },
     {
         "name": "Greece",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Athens"
     },
     {
         "name": "Hungary",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Budapest"
     },
     {
         "name": "Iceland",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Reykjavik"
     },
     {
         "name": "Ireland",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Dublin"
     },
     {
         "name": "Italy",
         "region": "Europe",
-        "continent": "Europe"
-    },
-    {
-        "name": "Kazakhstan",
-        "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Rome"
     },
     {
         "name": "Kosovo",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Pristina"
     },
     {
         "name": "Latvia",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Riga"
     },
     {
         "name": "Liechtenstein",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Vaduz"
     },
     {
         "name": "Lithuania",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Vilnius"
     },
     {
         "name": "Luxembourg",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Luxembourg City"
     },
     {
         "name": "Malta",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Valletta"
     },
     {
         "name": "Moldova",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Chisinau"
     },
     {
         "name": "Monaco",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Monaco"
     },
     {
         "name": "Montenegro",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Podgorica"
     },
     {
         "name": "Netherlands",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Amsterdam"
     },
     {
         "name": "North Macedonia",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Skopje"
     },
     {
         "name": "Norway",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Oslo"
     },
     {
         "name": "Poland",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Warsaw"
     },
     {
         "name": "Portugal",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Lisbon"
     },
     {
         "name": "Romania",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Bucharest"
     },
     {
         "name": "Russia",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Moscow"
     },
     {
         "name": "San Marino",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "San Marino City"
     },
     {
         "name": "Serbia",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Belgrade"
     },
     {
         "name": "Slovakia",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Bratislava"
     },
     {
         "name": "Slovenia",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Ljubljana"
     },
     {
         "name": "Spain",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Madrid"
     },
     {
         "name": "Sweden",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Stockholm"
     },
     {
         "name": "Switzerland",
         "region": "Europe",
-        "continent": "Europe"
-    },
-    {
-        "name": "Turkey",
-        "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Bern"
     },
     {
         "name": "Ukraine",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Kyiv"
     },
     {
         "name": "United Kingdom",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "London"
     },
     {
         "name": "Vatican City",
         "region": "Europe",
-        "continent": "Europe"
+        "continent": "Europe",
+        "capitalCity": "Vatican City"
     },
     {
         "name": "Afghanistan",
         "region": "South Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Kabul"
     },
     {
         "name": "Armenia",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Yerevan"
     },
     {
         "name": "Azerbaijan",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Baku"
     },
     {
         "name": "Bahrain",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Manama"
     },
     {
         "name": "Bangladesh",
         "region": "South Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Dhaka"
     },
     {
         "name": "Bhutan",
         "region": "South Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Thimphu"
     },
     {
         "name": "Brunei",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Bandar Seri Begawan"
     },
     {
         "name": "Cambodia",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Phnom Penh"
     },
     {
         "name": "China",
         "region": "East Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Beijing"
     },
     {
         "name": "Cyprus",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Nicosia"
     },
     {
         "name": "Georgia",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Tbilisi"
     },
     {
         "name": "India",
         "region": "South Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "New Delhi"
     },
     {
         "name": "Indonesia",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Jakarta"
     },
     {
         "name": "Iran",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Tehran"
     },
     {
         "name": "Iraq",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Baghdad"
     },
     {
         "name": "Israel",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Tel Aviv"
     },
     {
         "name": "Japan",
         "region": "East Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Tokyo"
     },
     {
         "name": "Jordan",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Amman"
     },
     {
         "name": "Kazakhstan",
         "region": "Central Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Nur-Sultan"
     },
     {
         "name": "Kuwait",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Kuwait City"
     },
     {
         "name": "Kyrgyzstan",
         "region": "Central Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Bishkek"
     },
     {
         "name": "Laos",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Vientiane"
     },
     {
         "name": "Lebanon",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Beirut"
     },
     {
         "name": "Malaysia",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Kuala Lumpur"
     },
     {
         "name": "Maldives",
         "region": "South Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Malé"
     },
     {
         "name": "Mongolia",
         "region": "East Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Ulaanbaatar"
     },
     {
         "name": "Myanmar",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Naypyidaw"
     },
     {
         "name": "Nepal",
         "region": "South Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Kathmandu"
     },
     {
         "name": "North Korea",
         "region": "East Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Pyongyang"
     },
     {
         "name": "Oman",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Muscat"
     },
     {
         "name": "Pakistan",
         "region": "South Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Islamabad"
     },
     {
         "name": "Palestine",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Jerusalem"
     },
     {
         "name": "Philippines",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Manila"
     },
     {
         "name": "Qatar",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Doha"
     },
     {
         "name": "Russia",
         "region": "North Asia",
-        "continent": "North Asia"
+        "continent": "North Asia",
+        "capitalCity": "Moscow"
     },
     {
         "name": "Saudi Arabia",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Riyadh"
     },
     {
         "name": "Singapore",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Singapore City"
     },
     {
         "name": "South Korea",
         "region": "East Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Seoul"
     },
     {
         "name": "Sri Lanka",
         "region": "South Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Sri Jayawardenepura Kotte"
     },
     {
         "name": "Syria",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Damascus"
     },
     {
         "name": "Taiwan",
         "region": "East Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Taipei"
     },
     {
         "name": "Tajikistan",
         "region": "Central Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Dushanbe"
     },
     {
         "name": "Thailand",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Bangkok"
     },
     {
         "name": "Timor-Leste",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Dili"
     },
     {
         "name": "Turkey",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Ankara"
     },
     {
         "name": "Turkmenistan",
         "region": "Central Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Ashgabat"
     },
     {
         "name": "United Arab Emirates",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Abu Dhabi"
     },
     {
         "name": "Uzbekistan",
         "region": "Central Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Tashkent"
     },
     {
         "name": "Vietnam",
         "region": "Southeast Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Hanoi"
     },
     {
         "name": "Yemen",
         "region": "Western Asia",
-        "continent": "Asia"
+        "continent": "Asia",
+        "capitalCity": "Sana'a"
     },
     {
         "name": "Australia",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Canberra"
     },
     {
         "name": "Fiji",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Suva"
     },
     {
         "name": "Kiribati",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "South Tarawa"
     },
     {
         "name": "Marshall Islands",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Majuro"
     },
     {
         "name": "Micronesia",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Palikir"
     },
     {
         "name": "Nauru",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Yaren"
     },
     {
         "name": "New Zealand",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Wellington"
     },
     {
         "name": "Palau",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Ngerulmud"
     },
     {
         "name": "Papua New Guinea",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Port Moresby"
     },
     {
         "name": "Samoa",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Apia"
     },
     {
         "name": "Solomon Islands",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Honiara"
     },
     {
         "name": "Tonga",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Nuku'alofa"
     },
     {
         "name": "Tuvalu",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Funafuti"
     },
     {
         "name": "Vanuatu",
         "region": "Oceania",
-        "continent": "Oceania"
+        "continent": "Oceania",
+        "capitalCity": "Port Vila"
     },
     {
         "name": "Algeria",
         "region": "North Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Algiers"
     },
     {
         "name": "Angola",
         "region": "Central Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Luanda"
     },
     {
         "name": "Benin",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Porto-Novo"
     },
     {
         "name": "Botswana",
         "region": "Southern Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Gaborone"
     },
     {
         "name": "Burkina Faso",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Ouagadougou"
     },
     {
         "name": "Burundi",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Gitega"
     },
     {
         "name": "Cabo Verde",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Praia"
     },
     {
         "name": "Cameroon",
         "region": "Central Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Yaoundé"
     },
     {
         "name": "Central African Republic",
         "region": "Central Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Bangui"
     },
     {
         "name": "Chad",
         "region": "Central Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "N'Djamena"
     },
     {
         "name": "Comoros",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Moroni"
     },
     {
         "name": "Congo, Democratic Republic of the",
         "region": "Central Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Kinshasa"
     },
     {
         "name": "Congo, Republic of the",
         "region": "Central Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Brazzaville"
     },
     {
         "name": "Djibouti",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Djibouti City"
     },
     {
         "name": "Egypt",
         "region": "North Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Cairo"
     },
     {
         "name": "Equatorial Guinea",
         "region": "Central Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Malabo"
     },
     {
         "name": "Eritrea",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Asmara"
     },
     {
         "name": "Eswatini",
         "region": "Southern Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Mbabane"
     },
     {
         "name": "Ethiopia",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Addis Ababa"
     },
     {
         "name": "Gabon",
         "region": "Central Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Libreville"
     },
     {
         "name": "Gambia",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Banjul"
     },
     {
         "name": "Ghana",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Accra"
     },
     {
         "name": "Guinea",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Conakry"
     },
     {
         "name": "Guinea-Bissau",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Bissau"
     },
     {
         "name": "Ivory Coast",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Yamoussoukro"
     },
     {
         "name": "Kenya",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Nairobi"
     },
     {
         "name": "Lesotho",
         "region": "Southern Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Maseru"
     },
     {
         "name": "Liberia",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Monrovia"
     },
     {
         "name": "Libya",
         "region": "North Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Tripoli"
     },
     {
         "name": "Madagascar",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Antananarivo"
     },
     {
         "name": "Malawi",
         "region": "Southern Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Lilongwe"
     },
     {
         "name": "Mali",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Bamako"
     },
     {
         "name": "Mauritania",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Nouakchott"
     },
     {
         "name": "Mauritius",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Port Louis"
     },
     {
         "name": "Morocco",
         "region": "North Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Rabat"
     },
     {
         "name": "Mozambique",
         "region": "Southern Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Maputo"
     },
     {
         "name": "Namibia",
         "region": "Southern Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Windhoek"
     },
     {
         "name": "Niger",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Niamey"
     },
     {
         "name": "Nigeria",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Abuja"
     },
     {
         "name": "Rwanda",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Kigali"
     },
     {
         "name": "Sao Tome and Principe",
         "region": "Central Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "São Tomé"
     },
     {
         "name": "Senegal",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Dakar"
     },
     {
         "name": "Seychelles",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Victoria"
     },
     {
         "name": "Sierra Leone",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Freetown"
     },
     {
         "name": "Somalia",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Mogadishu"
     },
     {
         "name": "South Africa",
         "region": "Southern Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Pretoria"
     },
     {
         "name": "South Sudan",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Juba"
     },
     {
         "name": "Sudan",
         "region": "North Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Khartoum"
     },
     {
         "name": "Tanzania",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Dar es Salaam"
     },
     {
         "name": "Togo",
         "region": "West Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Lomé"
     },
     {
         "name": "Tunisia",
         "region": "North Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Tunis"
     },
     {
         "name": "Uganda",
         "region": "East Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Kampala"
     },
     {
         "name": "Zambia",
         "region": "Southern Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Lusaka"
     },
     {
         "name": "Zimbabwe",
         "region": "Southern Africa",
-        "continent": "Africa"
+        "continent": "Africa",
+        "capitalCity": "Harare"
     }
 ]
