@@ -1,0 +1,1022 @@
+[
+    {
+        "name": "Antigua and Barbuda",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Bahamas",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Barbados",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Belize",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Canada",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Costa Rica",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Cuba",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Dominica",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Dominican Republic",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "El Salvador",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Grenada",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Guatemala",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Haiti",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Honduras",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Jamaica",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Mexico",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Nicaragua",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Panama",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Saint Lucia",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "United States",
+        "region": "North America",
+        "continent": "North America"
+    },
+    {
+        "name": "Argentina",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Bolivia",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Brazil",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Chile",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Colombia",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Ecuador",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Guyana",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Paraguay",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Peru",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Suriname",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Uruguay",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Venezuela",
+        "region": "South America",
+        "continent": "South America"
+    },
+    {
+        "name": "Albania",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Andorra",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Armenia",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Austria",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Azerbaijan",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Belarus",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Belgium",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Bulgaria",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Croatia",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Cyprus",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Czech Republic",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Denmark",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Estonia",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Finland",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "France",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Georgia",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Germany",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Greece",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Hungary",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Iceland",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Ireland",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Italy",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Kazakhstan",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Kosovo",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Latvia",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Liechtenstein",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Lithuania",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Luxembourg",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Malta",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Moldova",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Monaco",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Montenegro",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Netherlands",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "North Macedonia",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Norway",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Poland",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Portugal",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Romania",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Russia",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "San Marino",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Serbia",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Slovakia",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Slovenia",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Spain",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Sweden",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Switzerland",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Turkey",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Ukraine",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "United Kingdom",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Vatican City",
+        "region": "Europe",
+        "continent": "Europe"
+    },
+    {
+        "name": "Afghanistan",
+        "region": "South Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Armenia",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Azerbaijan",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bahrain",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bangladesh",
+        "region": "South Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bhutan",
+        "region": "South Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Brunei",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Cambodia",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "China",
+        "region": "East Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Cyprus",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Georgia",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "India",
+        "region": "South Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Indonesia",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Iran",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Iraq",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Israel",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Japan",
+        "region": "East Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Jordan",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kazakhstan",
+        "region": "Central Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kuwait",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "region": "Central Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Laos",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Lebanon",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Malaysia",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Maldives",
+        "region": "South Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Mongolia",
+        "region": "East Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Myanmar",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Nepal",
+        "region": "South Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "North Korea",
+        "region": "East Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Oman",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Pakistan",
+        "region": "South Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Palestine",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Philippines",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Qatar",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Russia",
+        "region": "North Asia",
+        "continent": "North Asia"
+    },
+    {
+        "name": "Saudi Arabia",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Singapore",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "South Korea",
+        "region": "East Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Sri Lanka",
+        "region": "South Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Syria",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Taiwan",
+        "region": "East Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Tajikistan",
+        "region": "Central Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Thailand",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Timor-Leste",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Turkey",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Turkmenistan",
+        "region": "Central Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "United Arab Emirates",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Uzbekistan",
+        "region": "Central Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Vietnam",
+        "region": "Southeast Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Yemen",
+        "region": "Western Asia",
+        "continent": "Asia"
+    },
+    {
+        "name": "Australia",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Fiji",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Kiribati",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Marshall Islands",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Micronesia",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Nauru",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "New Zealand",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Palau",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Papua New Guinea",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Samoa",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Solomon Islands",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Tonga",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Tuvalu",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Vanuatu",
+        "region": "Oceania",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Algeria",
+        "region": "North Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Angola",
+        "region": "Central Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Benin",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Botswana",
+        "region": "Southern Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Burkina Faso",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Burundi",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Cabo Verde",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Cameroon",
+        "region": "Central Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Central African Republic",
+        "region": "Central Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Chad",
+        "region": "Central Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Comoros",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Congo, Democratic Republic of the",
+        "region": "Central Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Congo, Republic of the",
+        "region": "Central Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Djibouti",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Egypt",
+        "region": "North Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "region": "Central Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Eritrea",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Eswatini",
+        "region": "Southern Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ethiopia",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Gabon",
+        "region": "Central Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Gambia",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ghana",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Guinea",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ivory Coast",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Kenya",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Lesotho",
+        "region": "Southern Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Liberia",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Libya",
+        "region": "North Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Madagascar",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Malawi",
+        "region": "Southern Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mali",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mauritania",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mauritius",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Morocco",
+        "region": "North Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mozambique",
+        "region": "Southern Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Namibia",
+        "region": "Southern Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Niger",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Nigeria",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Rwanda",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "region": "Central Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Senegal",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Seychelles",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Sierra Leone",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Somalia",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "South Africa",
+        "region": "Southern Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "South Sudan",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Sudan",
+        "region": "North Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Tanzania",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Togo",
+        "region": "West Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Tunisia",
+        "region": "North Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Uganda",
+        "region": "East Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Zambia",
+        "region": "Southern Africa",
+        "continent": "Africa"
+    },
+    {
+        "name": "Zimbabwe",
+        "region": "Southern Africa",
+        "continent": "Africa"
+    }
+]
